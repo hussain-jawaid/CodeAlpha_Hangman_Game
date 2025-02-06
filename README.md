@@ -1,6 +1,6 @@
 # Text-Based Hangman Game
 
-![Hangman Banner](https://via.placeholder.com/800x200.png?text=Hangman+Game+Banner)  
+![Hangman Banner](assets/banner.jpg)  
 *A classic word-guessing game built with Python.*
 
 ---
