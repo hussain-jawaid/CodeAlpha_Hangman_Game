@@ -6,7 +6,7 @@
 ---
 
 ## Description
-This is a text-based implementation of the classic Hangman game in Python. The game randomly selects a word from a predefined list, and the player must guess the word letter by letter within a limited number of attempts. The game features ASCII art for the hangman stages and provides a simple, interactive command-line interface.
+This is a text-based implementation of the classic Hangman game in Python. The player randomly selects a word from a predefined list and must guess the word letter by letter within a limited number of attempts. The game features ASCII art for the stages and provides a simple, interactive command-line interface.
 
 ---
 
@@ -22,4 +22,4 @@ This is a text-based implementation of the classic Hangman game in Python. The g
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hussain-jawaid/CodeAlpha_Hangman_Game
+   https://github.com/hussain-jawaid/CodeAlpha_Hangman_Game
