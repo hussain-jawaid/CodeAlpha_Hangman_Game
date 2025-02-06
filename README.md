@@ -22,4 +22,4 @@ This is a text-based implementation of the classic Hangman game in Python. The g
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hangman-Game.git
+   git clone https://github.com/hussain-jawaid/CodeAlpha_Hangman_Game
